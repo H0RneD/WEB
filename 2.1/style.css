@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+.gb{
+    width: 100%;
+    height: 250px;
+    position: relative;
+    display: grid;
+    text-align: center;
+    top: 100px;
+}
+.vt{
+    font-size: 40px;
+    color: black;
+}
+.nt{
+    font-size: 35px;
+    color: black;
+}

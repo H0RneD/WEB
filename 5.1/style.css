@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+.poka{
+    width: 100%;
+    height: 250px;
+    position: relative;
+    display: grid;
+    text-align: center;
+    top: 100px;
+}
+.poka1{
+    font-size: 42px;
+    color: black;
+}
+.poka2{
+    font-size: 36px;
+    color: black;
+}
